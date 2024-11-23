@@ -1,5 +1,5 @@
 #include "Warrior.h"
-int main(){
+int MainFunction(){
     cout<<"SK";
     return 0;
 }
